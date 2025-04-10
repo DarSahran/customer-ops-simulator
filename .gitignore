@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.env.*
+ss.py
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+.ENV/
+.VENV/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs and temp
+*.log
+*.sqlite3
+
+# VS Code
+.vscode/
